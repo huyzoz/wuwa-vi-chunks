@@ -9,10 +9,10 @@ instead of calling an AI model — no tokens, no translate latency.
 - **Version:** 3.8 — "Lilies in a Dying Dream" (textmap from
   [Arikatsu/WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data),
   branch `3.8`)
-- **Translated by:** Muse (55 chunks × 4,000 strings, validated per chunk)
-- **Coverage:** 216,384 / 216,384 unique strings (100%),
-  3,133,145 / 3,133,145 words
-- **Status:** complete — all 55 chunks validated.
+- **Translated by:** Muse (57 chunks, validated per chunk)
+- **Coverage:** 220,764 / 220,764 unique strings (100%),
+  3,206,219 / 3,206,219 words
+- **Status:** complete — all 57 chunks validated.
 
 ## Layout
 

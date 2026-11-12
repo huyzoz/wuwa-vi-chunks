@@ -4,11 +4,11 @@
  "title": "Lilies in a Dying Dream",
  "repo": "https://github.com/huyzoz/wuwa-vi-chunks",
  "updated": "2026-11-12",
- "chunks": 55,
- "uniqueStrings": 216384,
- "translatedStrings": 216384,
- "words": 3133145,
- "translatedWords": 3133145,
+ "chunks": 57,
+ "uniqueStrings": 220764,
+ "translatedStrings": 220764,
+ "words": 3206219,
+ "translatedWords": 3206219,
  "files": [
   "chunks/vi_chunk_001.json",
   "chunks/vi_chunk_002.json",
@@ -64,6 +64,8 @@
   "chunks/vi_chunk_052.json",
   "chunks/vi_chunk_053.json",
   "chunks/vi_chunk_054.json",
-  "chunks/vi_chunk_055.json"
+  "chunks/vi_chunk_055.json",
+  "chunks/vi_chunk_056.json",
+  "chunks/vi_chunk_057.json"
  ]
 }
