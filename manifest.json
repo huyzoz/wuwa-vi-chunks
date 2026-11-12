@@ -6,9 +6,9 @@
  "updated": "2026-11-12",
  "chunks": 55,
  "uniqueStrings": 216384,
- "translatedStrings": 213384,
+ "translatedStrings": 216384,
  "words": 3133145,
- "translatedWords": 3042056,
+ "translatedWords": 3133145,
  "files": [
   "chunks/vi_chunk_001.json",
   "chunks/vi_chunk_002.json",

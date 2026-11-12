@@ -10,10 +10,9 @@ instead of calling an AI model — no tokens, no translate latency.
   [Arikatsu/WutheringWaves_Data](https://github.com/Arikatsu/WutheringWaves_Data),
   branch `3.8`)
 - **Translated by:** Muse (55 chunks × 4,000 strings, validated per chunk)
-- **Coverage:** 213,384 / 216,384 unique strings (98.6%),
-  3,042,056 / 3,133,145 words
-- **Status:** chunk 043 is partial (1,000 / 4,000 strings) and being
-  finished; everything else is complete.
+- **Coverage:** 216,384 / 216,384 unique strings (100%),
+  3,133,145 / 3,133,145 words
+- **Status:** complete — all 55 chunks validated.
 
 ## Layout
 
